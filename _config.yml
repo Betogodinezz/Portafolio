@@ -7,23 +7,26 @@
 # server process.
 
 # Basic Site Settings
-[cite_start]title: "Beto Godinez Tautimez | Portafolio" [cite: 2]
-[cite_start]name: "Roberto Godinez Tautimez" [cite: 2]
-[cite_start]description: "Estudiante de Ingeniería en Sistemas Computacionales especializado en C#, Python y SQL Server." [cite: 9, 10]
-url: "https://Betogodinezz.github.io" 
-baseurl: "/Portafolio" # Nombre de tu repositorio
+locale: "es-MX"
+template: "academicpages"
+title: "Beto Godínez Tautimez | Portafolio"
+name: "Roberto Godínez Tautimez"
+description: "Estudiante de Ingeniería en Sistemas Computacionales en el ITN."
+url: "https://betogodinezz.github.io"
+baseurl: "/Portafolio"
+repository: "betogodinezz/Portafolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar: "profile.png" # Sube una foto con este nombre a /images/
-  name: "Beto Godinez"
-  [cite_start]bio: "Estudiante de ISC en el ITN. Enfocado en soluciones tecnológicas, automatización y optimización de procesos." [cite: 9, 11, 15]
-  [cite_start]location: "Nogales, Sonora, México" [cite: 4]
-  [cite_start]employer: "TecNM Campus Nogales" [cite: 15]
-  [cite_start]email: "betogodineztauti@gmail.com" [cite: 6]
-  [cite_start]linkedin: "roberto-godinez-516a18302" [cite: 7]
+  avatar: "profile.png"
+  name: "Roberto Godínez Tautimez"
+  bio: "Especializado en C#, Python y SQL Server. Enfocado en soluciones tecnológicas y optimización."
+  location: "Nogales, Sonora, México"
+  employer: "TecNM Campus Nogales"
+  email: "betogodineztauti@gmail.com"
+  linkedin: "roberto-godinez-516a18302"
   github: "Betogodinezz"
 
   # Academic websites
