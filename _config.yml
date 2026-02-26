@@ -7,11 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale: "es-MX"
-template: "academicpages"
-title: "Beto Godínez Tautimez | Portafolio"
+title: "Roberto Godínez Tautimez | Portafolio"
 name: "Roberto Godínez Tautimez"
-description: "Estudiante de Ingeniería en Sistemas Computacionales en el ITN."
+description: "Estudiante de Ingeniería en Sistemas Computacionales en el TecNM Nogales."
 url: "https://betogodinezz.github.io"
 baseurl: "/Portafolio"
 repository: "betogodinezz/Portafolio"
